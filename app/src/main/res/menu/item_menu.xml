@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_suchi"
+        android:title="আজকের সূচি"
+        android:icon="@drawable/ic_calendar1"/>
+    <item android:id="@+id/nav_such1"
+        android:title="ক্যালেন্ডার"
+        android:icon="@drawable/ic_baseline_calendar_today_24"/>
+    <item android:id="@+id/nav_quran"
+        android:title="কুরআন"
+        android:icon="@drawable/quran"/>
+    <item android:id="@+id/nav_dua"
+        android:title="দুআ  "
+        android:icon="@drawable/dua"/>
+
+
+
+</menu>
