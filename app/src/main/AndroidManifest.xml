@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Muslim">
         <activity
+            android:name=".Jahid2"
+            android:exported="false" />
+        <activity
             android:name=".Jahid"
             android:exported="false" />
         <activity android:name=".MainActivity">
